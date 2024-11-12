@@ -49,3 +49,5 @@ Here is a hint: Calculating the following measures could help to define proper K
 - % turnover
 - Average performance rating: men
 - Average Performance rating: women
+
+  ![Image Alt](https://github.com/Krishnareddy0709/Pwc-Power-Bi-Virtual-case-experience/blob/8bfdad20d54d2974d8e8b210ba6715335405865b/task%203%20(1)diversity%20%20%26%20inclusion.png)
