@@ -16,6 +16,7 @@ Possible KPIs include (to get you started, but not limited to):
 - Calls by time
 - Average speed of answer
 - Agentâ€™s performance quadrant -> average handle time (talk duration) vs calls answered
+ ![image Alt](https://github.com/Krishnareddy0709/Pwc-Power-Bi-Virtual-case-experience/blob/dd49b47028795d907ace77281e683a1c1b4e1d61/task%201%20call%20center%20trends.png)
 
 Task 2: Customer Retention A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
