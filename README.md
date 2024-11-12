@@ -28,6 +28,9 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - We have done customer analysis with Excel: it has always ended in a dead-end
 - We would like to know more about our customers: visualised clearly so that itâ€™s self-explanatory for our management The Retentions Manager has provided some information, have a look through the resource section.
   ![Image Alt](https://github.com/Krishnareddy0709/Pwc-Power-Bi-Virtual-case-experience/blob/dc87dd3b3e3ce88459df1c661f6a5cd38a1068aa/task%202%20churn%20dashboard.png)
+
+  ![Image Alt](https://github.com/Krishnareddy0709/Pwc-Power-Bi-Virtual-case-experience/blob/d0c01e88230c32a587ae01f1af4cccf60e516eec/task%202%20customer%20risk%20analysis.png)
+  
   ![Image Alt](https://github.com/Krishnareddy0709/Pwc-Power-Bi-Virtual-case-experience/blob/158e6a1b1045570e0bf4ade7c791481b56c582bb/task%202%20Insights.png)
 
 Task 3: Diversity & Inclusion Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
